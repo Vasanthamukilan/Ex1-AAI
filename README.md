@@ -3,7 +3,7 @@
 <H3> NAME:Vasanthamukilan M</H3>
 <H3> REGISTER NUMBER:212222230167</H3>
 <H3>EXPERIMENT NO: 01 </H3>
-<H3>DATE:  </H3>
+<H3>DATE:21/10/2024</H3>
 
 ## AIM:
 To create a Bayesian network for the given dataset in Python
